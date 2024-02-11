@@ -1,0 +1,30 @@
+{
+  "name": "geometric-area",
+  "version": "1.0.0",
+  "description": "This package contains the geometric formulas for calculating area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randy8891/geometric-area.git"
+  },
+  "keywords": [
+    "geometric",
+    "area",
+    "circle",
+    "triangle",
+    "square",
+    "rectangle",
+    "trapezium",
+    "parallelogram",
+    "rhombus"
+  ],
+  "author": "Randika Nonis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randy8891/geometric-area/issues"
+  },
+  "homepage": "https://github.com/randy8891/geometric-area#readme"
+}
