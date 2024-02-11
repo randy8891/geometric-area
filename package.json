@@ -1,6 +1,6 @@
 {
   "name": "geometric-area",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package contains the geometric formulas for calculating area.",
   "main": "index.js",
   "scripts": {
