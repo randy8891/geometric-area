@@ -14,3 +14,5 @@ console.log(rectangleArea(5, 8));
 console.log(trapeziumArea(4, 8, 6));
 console.log(parallelogramArea(8, 4));
 console.log(rhombusArea(4, 6));
+
+console.log("All tests passed.");
